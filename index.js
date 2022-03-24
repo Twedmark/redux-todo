@@ -3,7 +3,7 @@ var PropTypes = require('prop-types');
 
 var test = React.createClass({
 
-  render: function() {
+  render: function(yoyo, y) {
     return (
       <div />
     );
